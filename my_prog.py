@@ -1,4 +1,7 @@
+"""
+Mini program
+"""
 print("Hello")
 
-print(unknown_variable)
-gjhgjhg
+print("unknown_variable")
+# gjhgjhg
